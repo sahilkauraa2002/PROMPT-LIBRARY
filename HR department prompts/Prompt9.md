@@ -1,7 +1,7 @@
 # PROMPT 9: Welcome Email
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are welcoming a newly hired Social Media Head. Draft a welcome email for the candidate including a warm greeting, candidate's joining date, first day instructions, office ground rules and contact information for HR. The tone should be professional yet friendly, and the email should be concise (around 150-200 words). Please avoid adding any information not provided.
+We are in the HR department of an online skincare brand and are welcoming a newly hired Social Media Head. Draft a welcome email for the candidate including a warm greeting, candidate's joining date, first day instructions including the timings (working hours) , office ground rules (basic workspace etiquettes and formal dress code) and contact information for HR. The tone should be professional yet friendly, and the email should be concise (around 150-200 words). Please avoid adding any information not provided.
 
 ---
 
@@ -19,19 +19,19 @@ Automation potential is high.
 
 **Output**
 
-Subject: Welcome to [Company Name] – Your First Day Details
+Subject: Welcome to the Team – Your Joining Details
 
 Dear Rohan Mehta,
 
-We are delighted to welcome you to the team as our new Social Media Head! Your official joining date is 1 May 2026, and we look forward to having you on board.
+We are delighted to welcome you to our team as the new Social Media Head at [Company Name]. Your joining date is scheduled for 1 May 2026, and we look forward to having you on board.
 
-On your first day, please arrive by 8:30 AM at our office reception, where you will be greeted by a member of the HR team. Kindly bring a valid ID for security check-in. Dress code is business casual to maintain a professional yet comfortable environment.
+On your first day, please arrive by 8:30 AM. Our working hours are from 9:00 AM to 6:00 PM, Monday to Friday. Upon arrival, please check in at the reception, where you will be guided to your workspace.
 
-As part of our office ground rules, we encourage punctuality, respectful communication, and maintaining a clean workspace. Please familiarize yourself with our company policies, which will be shared during orientation.
+As part of our office culture, we maintain basic workspace etiquette—please keep your area tidy, be respectful of colleagues’ workspaces, and minimize noise to ensure a productive environment. We also adhere to a formal dress code, so please dress appropriately.
 
-If you have any questions before your start date, feel free to reach out to the HR department at hr@[companydomain].com or call us at [HR Phone Number].
+Should you have any questions before your start date, feel free to reach out to the HR team at hr@[companyemail].com or call us at [HR Phone Number].
 
-We are excited to have you join us and contribute to our brand’s growth!
+We are excited to have you with us and wish you a smooth and successful start.
 
 Best regards,  
 [Your Name]  
