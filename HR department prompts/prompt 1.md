@@ -18,6 +18,11 @@ The primary issue addressed by this prompt is the time-consuming and repetitive 
 
 The automation potential for this prompt is high, as AI can independently generate a structured and professional job description based on minimal input. This significantly reduces the time required by HR to produce initial drafts. However, human involvement remains essential for final validation, ensuring that the content aligns with company-specific requirements, tone, and strategic goals. The prompt can be scaled across multiple roles and hiring cycles, making it a highly efficient solution for organisations with frequent recruitment needs.
 
+**Risks and Limitations**
+
+One key risk is that AI-generated job descriptions may be too generic and fail to reflect the organisation’s unique culture, expectations, or branding. This can result in attracting unsuitable candidates. There is also a risk of over-reliance on AI, where HR may skip proper review and publish inaccurate or incomplete descriptions. Additionally, the AI may include outdated or irrelevant responsibilities if the prompt lacks specificity.
+Mitigation: Ensure all outputs are reviewed and customised by HR before publishing. Provide clear input context where necessary and maintain standardised templates for consistency.
+
 **Output**
 
 **Job Title:** Social Media Head – Online Skincare Brand
