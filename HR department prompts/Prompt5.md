@@ -17,6 +17,11 @@ Interviews often lack consistency, with questions varying across candidates. Thi
 
 Automation potential is medium, as AI can generate relevant and structured questions. However, HR must review and customise them based on specific needs. It improves consistency but does not replace interviewer judgment.
 
+**Risks and Limitations**
+
+The AI may generate generic or repetitive questions that do not fully assess the candidate’s capabilities. There is also a risk of irrelevant or inappropriate questions if the prompt is not specific.
+Mitigation: HR should review and customise questions based on role requirements and company context.
+
 **Output**
 
 Certainly! Below is a well-organized set of 18 interview questions for the role of Social Media Head in your skincare brand, categorized by relevant themes and tailored specifically for the industry and role.
