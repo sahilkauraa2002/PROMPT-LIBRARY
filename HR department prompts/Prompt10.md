@@ -17,6 +17,11 @@ Unstructured onboarding leads to confusion and inefficiency. This prompt ensures
 
 Automation potential is medium to high.
 
+**Risks and Limitations**
+
+The checklist may be too general and not fully aligned with real-time business needs. It may also miss organisation-specific processes.
+Mitigation: Customise the checklist based on team requirements and update regularly.
+
 **Output**
 
 **Social Media Head - First Week Onboarding Checklist**
