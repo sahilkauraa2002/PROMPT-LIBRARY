@@ -1,7 +1,7 @@
 # PROMPT 6: Interview Notes Summary 
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are hiring a Social Media Head. Summarise the interview notes for a candidate and provide their strengths, weaknesses, skills and potential to work as the Social Media Head for a skincare brand based on their performance.
+We are in the HR department of an online skincare brand and are hiring a Social Media Head. Please summarise the provided interview notes for a candidate by highlighting their key strengths, weaknesses, relevant skills, and overall potential to succeed in this role. Ensure the summary is clear, concise, and professionally written, with a length of approximately 200–300 words. Make the evaluation strictly on the information given in the interview notes to maintain accuracy and avoid assumptions, and ensure the insights are directly relevant to the responsibilities of a Social Media Head in an online brand.
 
 <DATA> CANDIDATE 1: AISHA SHARMA
 
@@ -119,95 +119,15 @@ Automation potential is medium to high, as AI can efficiently summarise informat
 
 **Output**
 
-Here is a summary of the interview notes for the three candidates considered for the Social Media Head position at the skincare brand, including their strengths, weaknesses, skills, and potential fit for the role:
+The evaluation of candidates for the Social Media Head role reveals distinct profiles aligned with different organizational needs.
+
+Aisha Sharma presents as a strong, balanced candidate with solid hands-on experience in managing social media platforms and executing campaigns specifically within the skincare and digital marketing domain. She demonstrates effective content strategy execution, good use of performance metrics for analytical insights, and a clear understanding of skincare audience trends. However, her leadership and people management experience are limited, and while she shows strategic thinking, it is not highly advanced. Rated 4.0/5 overall, Aisha is a reliable choice for a role requiring strong execution capabilities and relevant industry knowledge but might need support in leadership development.
+
+Rohan Mehta stands out as the top candidate with excellent strategic thinking, leadership skills, and extensive experience in managing budgets, scaling brands, and driving ROI through digital campaigns. His deep understanding of digital marketing trends, data-driven decision-making, and team management skills align well with the demands of a leadership-heavy Social Media Head role. Despite slightly higher salary expectations and a potential risk of being overqualified for a purely execution-focused position, Rohan’s comprehensive expertise and strong cultural fit rate him at 4.8/5, making him ideal for a role emphasizing strategic leadership and growth.
+
+Priya Verma, while enthusiastic and communicative with a creative mindset, lacks the necessary depth in strategy, analytics, and campaign execution for this senior role. Her limited professional experience and weaker understanding of growth strategies position her below the threshold required for leadership responsibilities, reflected in her overall rating of 2.2/5. She is not recommended for shortlisting.
+
+In summary, Rohan Mehta is the prime candidate for a strategic and leadership-driven Social Media Head role, whereas Aisha Sharma offers a strong execution-focused profile with room for leadership growth. Priya Verma does not currently meet the role’s requirements.
 
 ---
 
-### Candidate 1: Aisha Sharma
-
-**Strengths:**
-- Strong hands-on experience in managing social media platforms and executing campaigns.
-- Proven ability to improve engagement and collaborate with influencers.
-- Good understanding of skincare audience trends and content positioning.
-- Strong execution skills in content strategy and campaign management.
-- Analytical thinker using performance metrics effectively.
-- Relevant experience in the skincare and digital marketing domain.
-
-**Weaknesses:**
-- Limited leadership and people management experience.
-- Strategic thinking capabilities present but not highly advanced.
-
-**Skills & Ratings:**
-- Skills: 4/5
-- Knowledge: 4/5
-- Experience: 4/5
-- Cultural Fit: 4/5
-- Overall Suitability: 4.0/5 (Strong Fit)
-
-**Potential:**
-- A balanced candidate with solid execution skills and relevant industry exposure.
-- Suitable for the role but may require development in leadership and strategic aspects to excel as Social Media Head.
-
----
-
-### Candidate 2: Rohan Mehta
-
-**Strengths:**
-- Strong strategic thinking and leadership experience.
-- Proven track record in managing budgets, scaling brands, and achieving ROI.
-- Deep understanding of digital marketing trends and performance optimization.
-- Excellent leadership and team management capabilities.
-- Data-driven decision making with a strong focus on ROI.
-- Extensive experience with paid campaigns and brand scaling.
-
-**Weaknesses:**
-- Slightly higher salary expectations.
-- Possibly overqualified for a role focused mainly on execution.
-
-**Skills & Ratings:**
-- Skills: 5/5
-- Knowledge: 5/5
-- Experience: 5/5
-- Cultural Fit: 4/5
-- Overall Suitability: 4.8/5 (Excellent Fit)
-
-**Potential:**
-- Ideal candidate for a leadership-heavy Social Media Head role.
-- Highly experienced and strategic, well-suited to drive growth and team performance.
-
----
-
-### Candidate 3: Priya Verma
-
-**Strengths:**
-- Good communication skills and a positive attitude.
-- Creative mindset with basic content creation skills.
-- Open to feedback and willing to learn.
-
-**Weaknesses:**
-- Limited professional experience.
-- Weak understanding of analytics, strategy, and campaign execution.
-- Not ready for a leadership or head-level role.
-
-**Skills & Ratings:**
-- Skills: 2/5
-- Knowledge: 2/5
-- Experience: 2/5
-- Cultural Fit: 3/5
-- Overall Suitability: 2.2/5 (Below Fit)
-
-**Potential:**
-- Entry-level profile not aligned with the current requirements of the Social Media Head position.
-- May be considered for junior roles with potential for growth.
-
----
-
-### Summary Recommendation:
-
-- **Top Candidate:** Rohan Mehta, due to his strong leadership skills, strategic vision, and extensive relevant experience.
-- **Second Choice:** Aisha Sharma, a strong executor with relevant skincare marketing experience but needs growth in leadership.
-- **Not Recommended:** Priya Verma, currently lacks the required experience and skills for a head-level role.
-
-Rohan Mehta is best suited if the role demands leadership and strategic development, while Aisha Sharma is a solid choice if the focus is more on hands-on execution with some leadership support.
-
----
