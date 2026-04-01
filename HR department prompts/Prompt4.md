@@ -1,7 +1,6 @@
 # PROMPT 4: Interview Invitation Email
 **Prompt text**
-
-We are in the HR department of an online skincare brand and are hiring a Social Media Head. Draft a professional interview invitation email for shortlisted candidates, including interview time and mention few guidelines for the interview that the candidate should be formally dressed and should be on time. The interview will be for 30 minutes.
+We are in the HR department of an online skincare brand and are hiring a Social Media Head. Draft a clear and professional interview invitation email for shortlisted candidates and inform them that the interview will be online on google meet, and include the interview time, duration of the interview will be 30 minutes, the candidate should join on time ensuring his surroundings should be clear the and basic guidelines such as being formally dressed and joining on time. Ensure the tone is polite and suitable for a professional hiring process.
 
 ---
 
@@ -19,33 +18,32 @@ Automation potential is high, as AI can fully generate ready-to-send emails. Hum
 
 **Output**
 
-Subject: Interview Invitation for Social Media Head Position.
+Subject: Interview Invitation for Social Media Head Position
 
 Dear Rohan Mehta,
 
-We are pleased to inform you that you have been shortlisted for the position of Social Media Head. We would like to invite you for an interview to further discuss your qualifications and experience.
+We hope this message finds you well.
 
-Interview Details:  
-Date: 1 April 2026  
+We are pleased to inform you that you have been shortlisted for the position of Social Media Head at [Company Name]. We would like to invite you to participate in an online interview via Google Meet.
 
-Time: 11:00 AM  
+Details of the interview are as follows:  
+**Date:** 1 April 2026  
+**Time:** 11 AM (please join promptly)  
+**Duration:** Approximately 30 minutes
 
-Duration: 30 minutes  
+Kindly ensure the following for a smooth interview experience:  
+- Join the interview on time  
+- Dress formally  
+- Choose a quiet and clear environment with minimal distractions  
+- Have a stable internet connection and a working camera and microphone  
 
-Mode: Google Meet
+We look forward to speaking with you and learning more about your skills and experiences.
 
-Please find below a few guidelines for the interview:  
-- Kindly ensure that you are formally dressed for the interview.  
-- Please join the interview on time, as the session will be strictly 30 minutes.  
-- Have a stable internet connection and a quiet environment.
-
-We look forward to speaking with you and learning more about how you can contribute to our team.
-
-Please confirm your availability by replying to this email.
+Please confirm your availability by replying to this email at your earliest convenience. Should you have any questions or require further assistance, feel free to reach out.
 
 Best regards,  
 [Your Full Name]  
-[Your Job Title]  
+[Your Position]  
 [Company Name]  
 [Contact Information]
 
