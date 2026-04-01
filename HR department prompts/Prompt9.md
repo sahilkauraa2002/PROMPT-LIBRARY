@@ -17,6 +17,11 @@ Inconsistent onboarding communication affects employee experience. This prompt e
 
 Automation potential is high.
 
+**Risks and Limitations**
+
+AI-generated emails may feel generic or lack personalisation, which can affect the onboarding experience. There is also a risk of missing important role-specific details.
+Mitigation: HR should personalise the email and verify all onboarding information.
+
 **Output**
 
 Subject: Welcome to the Team – Your Joining Details
