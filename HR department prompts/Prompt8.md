@@ -1,7 +1,7 @@
 # PROMPT 8: Document Request Email
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are onboarding a Social Media Head. Draft a clear and professional email congratulating the candidate on being selected for the role and requesting submission of required onboarding documents such as government issued ID, educational documents and a recent photograph. Ensure the tone is polite, formal, and suitable for a professional onboarding process.
+We are in the HR department of an online skincare brand and are onboarding a Social Media Head. Draft a clear and professional email congratulating the candidate on being selected for the role and requesting submission of required onboarding documents such as government issued ID, educational documents and a recent photograph. Include a deadline for the submission of these documents. Structure the email with a professional greeting, body, and closing. Ensure the tone is polite, formal, and suitable for a professional onboarding process.
 
 ---
 
@@ -23,25 +23,24 @@ Subject: Congratulations on Your Selection as Social Media Head – Onboarding D
 
 Dear Rohan Mehta,
 
-We are pleased to inform you that you have been selected for the position of Social Media Head. Congratulations on your successful application and welcome to our team!
+We are pleased to inform you that you have been selected for the position of Social Media Head. Congratulations and welcome to our team!
 
-To proceed with the onboarding process, we kindly request you to submit the following documents at your earliest convenience:
+To proceed with your onboarding process, kindly submit the following documents at your earliest convenience:
 
-- A government-issued photo identification (e.g., passport, driver’s license, or national ID)
-- Copies of your educational certificates and relevant qualifications
-- A recent passport-sized photograph
+- A government-issued identification (e.g., Passport, Driver’s License, Aadhar Card)  
+- Copies of your educational certificates  
+- A recent passport-sized photograph  
 
-Please send the scanned copies of these documents to this email address by [specific deadline, e.g., within 5 business days].
+Please ensure that these documents are submitted by [Deadline Date, e.g., May 10, 2024] to facilitate a smooth onboarding experience.
 
-Should you have any questions or require further assistance, feel free to reach out to us.
+If you have any questions or require assistance, please do not hesitate to contact us.
 
-We look forward to working with you and wish you success in your new role.
+We look forward to your valuable contributions to our brand.
 
 Best regards,  
 [Your Full Name]  
-[Your Job Title]  
+[Your Position]  
 [Company Name]  
 [Contact Information]
 
 ---
-
