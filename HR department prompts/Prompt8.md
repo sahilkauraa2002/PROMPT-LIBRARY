@@ -17,6 +17,11 @@ Repetitive follow-ups waste time and can lead to communication gaps. This prompt
 
 Automation potential is high, as emails can be generated instantly with minimal edits.
 
+**Risks and Limitations**
+
+The main risk is related to data privacy and security, as sensitive information is involved. AI-generated communication may not always reflect compliance requirements.
+Mitigation: Ensure secure communication channels and follow organisational data protection policies.
+
 **Output**
 
 Subject: Congratulations on Your Selection as Social Media Head – Onboarding Documents Required
