@@ -17,6 +17,11 @@ HR teams spend time repeatedly drafting emails, which can lead to inconsistency 
 
 Automation potential is high, as AI can fully generate ready-to-send emails. Human review is still needed to confirm accuracy of details such as date and time. This prompt is highly scalable and improves efficiency in communication.
 
+**Risks and Limitations**
+
+AI-generated emails may include incorrect or missing details if not carefully reviewed. There is also a risk of impersonal communication, which may affect candidate experience.
+Mitigation: Always verify details such as date and time before sending. Personalise emails where necessary.
+
 **Output**
 
 Subject: Interview Invitation for Social Media Head Position
