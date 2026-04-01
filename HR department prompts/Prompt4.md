@@ -1,6 +1,7 @@
 # PROMPT 4: Interview Invitation Email
 **Prompt text**
-We are in the HR department of an online skincare brand and are hiring a Social Media Head. Draft a clear and professional interview invitation email for shortlisted candidates and inform them that the interview will be online on google meet, and include the interview time, duration of the interview will be 30 minutes, the candidate should join on time ensuring his surroundings should be clear the and basic guidelines such as being formally dressed and joining on time. Ensure the tone is polite and suitable for a professional hiring process.
+We are in the HR department of an online skincare brand and are hiring a Social Media Head. Draft a clear, professional, and well-structured interview invitation email for shortlisted candidates. The email should begin with a greeting addressing the candidate by name and clearly inform them that they have been shortlisted for the Social Media Head position. It should mention that the interview will be conducted online via Google Meet and include the interview date along with the interview duration of 30 minutes. The email should also include clear guidelines for the candidate, such as joining on time, being formally dressed, and ensuring a quiet, distraction free environment. Additionally, request the candidate to confirm their availability and include contact information for any questions or assistance.
+Ensure the tone is polite, formal, and candidate-friendly, and conclude the email with a professional closing including name, position, company name, and contact details. Limit the response to approximately 120–150 words and ensure the email is ready to be used.
 
 ---
 
@@ -22,29 +23,19 @@ Subject: Interview Invitation for Social Media Head Position
 
 Dear Rohan Mehta,
 
-We hope this message finds you well.
+We are pleased to inform you that you have been shortlisted for the Social Media Head position. Your interview is scheduled to be conducted online via Google Meet on 1 April 2026 and will last approximately 30 minutes.
 
-We are pleased to inform you that you have been shortlisted for the position of Social Media Head at [Company Name]. We would like to invite you to participate in an online interview via Google Meet.
+Please ensure you join the meeting on time, dress formally, and participate from a quiet, distraction-free environment to facilitate a smooth interview process.
 
-Details of the interview are as follows:  
-**Date:** 1 April 2026  
-**Time:** 11 AM (please join promptly)  
-**Duration:** Approximately 30 minutes
+Kindly confirm your availability for the scheduled date at your earliest convenience. Should you have any questions or require assistance, feel free to contact us at [Contact Email] or [Contact Phone Number].
 
-Kindly ensure the following for a smooth interview experience:  
-- Join the interview on time  
-- Dress formally  
-- Choose a quiet and clear environment with minimal distractions  
-- Have a stable internet connection and a working camera and microphone  
-
-We look forward to speaking with you and learning more about your skills and experiences.
-
-Please confirm your availability by replying to this email at your earliest convenience. Should you have any questions or require further assistance, feel free to reach out.
+We look forward to speaking with you.
 
 Best regards,  
 [Your Full Name]  
 [Your Position]  
 [Company Name]  
+[Contact Email] | [Contact Phone Number]
 [Contact Information]
 
 ---
