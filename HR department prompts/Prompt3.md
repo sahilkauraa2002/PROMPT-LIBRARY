@@ -1,7 +1,9 @@
 # PROMPT 3: Candidate Shortlisting
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are hiring a Social Media Head. We have shortlisted a few candidates. Review the provided candidate profiles and generate a clear and structured summary of each candidate, highlighting their strengths, relevant experience, and overall suitability for the role. Consider their qualifications, eligibility, and any certifications related to social media management and digital marketing carrying a high potential for the position. Ensure the response is professional and relevant.
+We are in the HR department of an online skincare brand and are hiring a Social Media Head. We have shortlisted a few candidates. Review the provided candidate profiles and generate a clear, professional, and structured evaluation of each candidate’s suitability for the role. The response should include a concise summary of each candidate, key strengths, and an assessment of their overall fit based on experience in social media strategy, content creation, audience engagement, and digital marketing.
+Additionally, evaluate their qualifications, eligibility, and any certifications related to social media management or digital marketing, and clearly indicate how these support their suitability for the role. Ensure the evaluation is strictly based on the information provided in the profiles, avoids assumptions, and remains specific and evidence-based. Maintain a professional tone and limit the response to approximately 180–220 words while keeping the content well-organised and easy to interpret.
+
 <DATA> Sample CV – Marketing / Social Media Role
 
 Name: Aisha Sharma
@@ -239,73 +241,33 @@ The automation potential is medium. AI can assist in organising and summarising 
 
 **Output**
 
-Below is a structured summary of each shortlisted candidate for the Social Media Head position at your online skincare brand, focusing on their strengths, relevant experience, qualifications, certifications, and overall suitability for the role:
+Candidate Evaluation for Social Media Head Role – Online Skincare Brand
 
----
+1. Aisha Sharma
 
-### Candidate 1: Aisha Sharma  
-**Location:** Melbourne, VIC, Australia  
-**Experience:** 3+ years in social media management and digital marketing within the beauty and skincare sector.  
-**Strengths & Relevant Experience:**  
-- Proven ability to increase brand engagement and follower growth (e.g., 40% engagement increase, 60K new Instagram followers).  
-- Hands-on experience managing influencer marketing campaigns directly linked to sales growth (25% increase).  
-- Skilled in content creation, copywriting, and using analytics tools (Google Analytics, Meta Insights) for performance optimization.  
-- Familiar with SEO, paid advertising (Meta Ads, Google Ads), and brand positioning.  
-- Demonstrated leadership and team collaboration capabilities.  
+Summary: Aisha brings over 3 years of focused experience in social media management and digital marketing within the skincare sector. She currently manages accounts with significant followings and has demonstrated success in engagement growth and influencer campaigns.
 
-**Qualifications & Certifications:**  
-- Bachelor of Commerce (B.Com)  
-- Google Digital Marketing Certification  
-- Meta Social Media Marketing Professional Certificate  
-- HubSpot Content Marketing Certification  
+Strengths: Expertise in content strategy, influencer marketing, and analytics; hands-on experience with tools like Google Analytics and Meta Ads; proven ability to drive sales conversions; relevant certifications (Google Digital Marketing, Meta Social Media Marketing, HubSpot Content Marketing) supporting her digital marketing knowledge.  
 
-**Suitability:**  
-Aisha offers a solid foundation in social media strategy and execution with relevant industry experience and certifications. Her demonstrated success in influencer campaigns and data-driven growth strategies makes her a strong candidate for a mid-level Social Media Head role, especially for hands-on campaign management and content leadership.
+Fit Assessment: Well-suited for a mid-level Social Media Head role, especially given her industry knowledge and measurable results in engagement and campaign performance. However, leadership experience appears limited to team collaboration rather than direct team management.
 
----
+2. Rohan Mehta
 
-### Candidate 2: Rohan Mehta  
-**Location:** Melbourne, VIC, Australia  
-**Experience:** 6+ years in digital marketing and social media management, focusing on beauty and skincare brands.  
-**Strengths & Relevant Experience:**  
-- Extensive leadership experience managing teams and large-scale campaigns with measurable business impact (e.g., 35% revenue growth, 4.5x ROI on $200K+ ad budget).  
-- Advanced skills in social media strategy, paid advertising (Meta, TikTok, Google Ads), influencer and affiliate marketing.  
-- Strong expertise in data analytics, campaign optimization, brand building, and budgeting.  
-- Proven track record of managing high-profile influencer partnerships and brand relaunch initiatives generating millions of impressions.  
+Summary: Rohan is a senior-level social media professional with 6+ years of experience, specializing in beauty and skincare digital marketing. He has managed large teams, substantial budgets, and high-impact campaigns with strong ROI.
 
-**Qualifications & Certifications:**  
-- MBA in Marketing  
-- Google Ads Certification  
-- Meta Blueprint Certification  
-- HubSpot Inbound Marketing Certification  
+Strengths: Advanced strategic planning, team leadership, and budget management; expertise in multi-platform paid ads and influencer partnerships; strong educational background (MBA Marketing) and multiple certifications (Google Ads, Meta Blueprint, HubSpot Inbound Marketing); demonstrated success in brand repositioning and revenue growth.  
 
-**Suitability:**  
-Rohan is highly suitable for a senior Social Media Head role due to his comprehensive experience, leadership capabilities, and strategic vision. His background in managing large teams, budgets, and integrated campaigns aligns well with the demands of leading a social media department for a growing skincare brand.
+Fit Assessment: Highly suitable for the Social Media Head role, offering extensive leadership experience, strategic vision, and proven results in brand scaling and campaign execution, aligning well with the role’s senior responsibilities.
 
----
+3. Priya Verma
+   
+Summary: Priya is an entry-level candidate with foundational experience in social media content creation and campaign support, primarily through internships and freelance work.  
 
-### Candidate 3: Priya Verma  
-**Location:** Melbourne, VIC, Australia  
-**Experience:** Entry-level with internship and freelance experience in social media and content creation.  
-**Strengths & Relevant Experience:**  
-- Basic social media management skills and content creation using tools like Canva.  
-- Practical exposure to campaign support and content scheduling on Instagram and Facebook.  
-- Developed a personal skincare blog demonstrating initiative and content writing ability.  
+Strengths: Basic social media skills, content writing, Canva design, and a marketing degree; some exposure to Instagram Insights and digital marketing principles through Coursera certification.  
 
-**Qualifications & Certifications:**  
-- Bachelor of Business (Marketing)  
-- Introduction to Digital Marketing (Coursera)  
+Fit Assessment: While motivated, Priya lacks the depth of experience, strategic capability, and leadership needed for a Social Media Head position. Suitable for junior roles or as a potential future talent with further development.
 
-**Suitability:**  
-Priya is an enthusiastic entry-level candidate with foundational skills and a keen interest in digital marketing. However, her limited professional experience and certifications suggest she may require significant training and development before assuming a leadership role like Social Media Head.
-
----
-
-### Overall Recommendation:
-
-- **Best suited for Social Media Head:** Rohan Mehta, due to his senior-level experience, leadership skills, and proven ability to scale brands and manage comprehensive campaigns effectively.  
-- **Strong mid-level candidate:** Aisha Sharma, suitable for a role requiring hands-on social media management and campaign execution with potential for growth.  
-- **Not suitable for leadership at this stage:** Priya Verma, better suited for entry-level or assistant roles focused on learning and supporting the marketing team.
+Overall Recommendation: Rohan Mehta stands out as the strongest candidate for the Social Media Head role due to his senior-level experience, leadership in digital marketing, and comprehensive skill set tailored for brand growth in the skincare industry. Aisha Sharma is a competent mid-level option with solid hands-on experience and certifications, while Priya Verma currently aligns more with entry-level positions.
 
 ---
 
