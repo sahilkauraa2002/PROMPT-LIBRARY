@@ -117,6 +117,11 @@ Interview notes are often unstructured and difficult to interpret, slowing decis
 
 Automation potential is medium to high, as AI can efficiently summarise information. Human oversight ensures accuracy and context.
 
+**Risks and Limitations**
+
+AI may lose nuance or context when summarising interview notes, potentially misrepresenting candidate performance. There is also a risk of over-simplification, leading to incomplete evaluation.
+Mitigation: Use AI summaries as a reference, not a final decision. Cross-check with original notes.
+
 **Output**
 
 Candidate Evaluation Summary for Social Media Head Role
