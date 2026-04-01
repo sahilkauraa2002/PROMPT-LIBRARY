@@ -239,6 +239,11 @@ Shortlisting often lacks structured comparison, leading to subjective decision-m
 
 The automation potential is medium. AI can assist in organising and summarising candidate information, improving clarity and efficiency. However, human validation is required to ensure fairness and accuracy. The prompt enhances decision-making speed but does not replace HR judgment.
 
+**Risks and Limitations**
+
+The prompt may lead to oversimplified summaries, failing to capture deeper qualitative differences between candidates. There is also a risk of confirmation bias, where AI reinforces patterns rather than critically evaluating candidates.
+Mitigation: Combine AI-generated summaries with human judgment and detailed review of candidate profiles.
+
 **Output**
 
 Candidate Evaluation for Social Media Head Role – Online Skincare Brand
