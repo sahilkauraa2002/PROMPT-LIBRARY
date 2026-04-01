@@ -128,6 +128,11 @@ Comparing candidates objectively is challenging, often leading to bias and incon
 
 Automation potential is medium, assisting decision-making but requiring human validation.
 
+**Risks and Limitations**
+
+There is a risk of over-reliance on AI-generated rankings, which may introduce bias or overlook qualitative factors such as cultural fit. The weighting criteria may not always reflect real business priorities.
+Mitigation: Treat AI comparison as a decision-support tool and ensure final decisions are made by HR professionals.
+
 **Output**
 
 | Candidate Name | Key Skills | Relevant Knowledge | Experience Summary | Overall Suitability Rating |
