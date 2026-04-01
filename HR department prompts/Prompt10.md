@@ -1,7 +1,7 @@
 # PROMPT 10: First Week Checklist
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are onboarding a Social Media Head. Create a checklist for the candidate’s first week including key tasks, training activities and responsibilities and duties of a Social Media Head.
+We are in the HR department of an online skincare brand and are onboarding a Social Media Head. Create a detailed checklist for the candidate’s first week including daily key tasks, training activities and an overview of their core responsibilities and duties of a Social Media Head. Also add something related to ice breaking activities with other staff to make a good workspace bond. Limit the checklist to a maximum of five days.
 
 ---
 
@@ -19,80 +19,116 @@ Automation potential is medium to high.
 
 **Output**
 
-Certainly! Here's a comprehensive **First Week Onboarding Checklist** for the Social Media Head at your online skincare brand, including key tasks, training activities, and an overview of responsibilities and duties.
+Certainly! Here’s a detailed 5-day onboarding checklist for the Social Media Head at your online skincare brand, including daily key tasks, training activities, core responsibilities overview, and ice-breaking activities for team bonding.
 
 ---
 
-### **Social Media Head: First Week Onboarding Checklist**
-
-#### **Day 1: Welcome & Orientation**
-- **Welcome & Introductions**
-  - Meet the HR team and key stakeholders (Marketing, Product, Customer Service teams)
-  - Office tour (if applicable) or virtual workspace setup
-- **Company Overview**
-  - Company mission, vision, values, and culture
-  - Overview of the skincare brand’s product line and unique selling points
-- **IT Setup**
-  - Access to company email, social media platforms, analytics tools (e.g., Hootsuite, Sprout Social, Google Analytics)
-  - Access to content management systems, design tools, and scheduling apps
-- **Review Job Description & Expectations**
-  - Discuss role, responsibilities, KPIs, and reporting structure
-
-#### **Day 2: Brand & Social Media Strategy Immersion**
-- **Brand Training**
-  - Deep dive into brand voice, tone, and messaging guidelines
-  - Review existing social media presence and past campaigns
-- **Social Media Audit**
-  - Analyze current social media accounts (Instagram, Facebook, TikTok, Twitter, LinkedIn, YouTube, Pinterest, etc.)
-  - Review engagement metrics, follower growth, content types, and competitors
-- **Meet Marketing Team**
-  - Understand marketing calendar, upcoming campaigns, and collaboration points
-
-#### **Day 3: Tools & Workflow Training**
-- **Platform Tools Training**
-  - Social media scheduling tools (e.g., Buffer, Later)
-  - Analytics and reporting platforms
-  - Content creation tools (e.g., Canva, Adobe Suite)
-- **Content Approval & Compliance Process**
-  - Review content approval workflows and brand compliance policies
-  - Discuss legal and ethical standards for skincare marketing (e.g., claims regulations)
-- **Crisis Management Protocols**
-  - Overview of handling negative feedback or social media crises
-
-#### **Day 4: Planning & Strategy Development**
-- **Content Planning**
-  - Begin drafting a 1-month content calendar aligned with marketing goals and product launches
-  - Brainstorm content ideas focused on skincare education, promotions, influencer collaborations, and user-generated content
-- **Collaboration Setup**
-  - Meet with influencer/partnership coordinator (if applicable)
-  - Discuss cross-department collaboration, especially with product and customer support teams
-- **Competitor & Industry Trends**
-  - Research skincare industry trends and competitor social media strategies
-
-#### **Day 5: Reporting & Team Management**
-- **Reporting & Metrics**
-  - Learn how to create weekly/monthly social media performance reports
-  - Understand key performance indicators (KPIs) such as engagement rate, reach, conversion, and ROI
-- **Team Leadership**
-  - Meet social media team members (content creators, community managers)
-  - Discuss team roles, responsibilities, and communication cadence
-- **Set Initial Goals**
-  - Define short-term goals for the first 30/60/90 days with manager
+### Onboarding Checklist for Social Media Head  
+**Company:** [Your Skincare Brand]  
+**Position:** Social Media Head  
+**Duration:** First Week (5 days)
 
 ---
 
-### **Ongoing Responsibilities & Duties Overview**
+## Day 1: Welcome & Orientation
 
-- Develop and execute the social media strategy aligned with brand goals and marketing campaigns
-- Manage and grow social media channels, ensuring consistent brand voice and aesthetic
-- Lead the creation, scheduling, and publishing of engaging content (posts, stories, videos, reels)
-- Monitor social media trends, platform updates, and competitor activities to keep the brand relevant
-- Engage with followers, respond to comments and messages in a timely manner
-- Collaborate with influencers, brand ambassadors, and partners to expand brand reach
-- Analyze social media metrics to optimize campaigns and report ROI to senior management
-- Manage social media budget and advertising campaigns
-- Train and mentor the social media team to ensure productivity and creativity
-- Ensure compliance with advertising standards and skincare product regulations
+### Key Tasks  
+- Meet with HR for onboarding formalities (documentation, benefits, policies).  
+- Introduction to the company mission, vision, values, and brand story.  
+- Overview of the skincare product range and target audience.  
+- Set up workstation, email, and access to social media management tools (e.g., Hootsuite, Buffer, Canva, Google Analytics).  
+
+### Training Activities  
+- Walkthrough of existing social media channels and analytics dashboards.  
+- Review current social media strategy, campaigns, and content calendar.  
+- Introduction to the marketing and creative teams.  
+
+### Core Responsibilities Overview  
+- Present the core responsibilities and KPIs using a prepared document:  
+  - Develop and execute social media strategy aligned with brand goals.  
+  - Manage and grow social media presence across platforms (Instagram, Facebook, TikTok, Twitter, LinkedIn, Pinterest).  
+  - Lead content creation, curation, and scheduling.  
+  - Monitor social media trends, competitor activity, and customer feedback.  
+  - Collaborate with marketing, PR, and customer service teams.  
+  - Analyze campaign performance and report insights.  
+
+### Ice-breaking Activity  
+- **“Two Truths and a Lie”**: Each team member shares two true statements and one false about themselves; others guess the lie. Helps break the ice and encourages interaction.
+
+---
+
+## Day 2: Deep Dive into Social Media Strategy & Tools
+
+### Key Tasks  
+- Review detailed social media analytics and insights reports from the past 6 months.  
+- Identify top-performing content and areas for improvement.  
+- Audit competitor social media presence and industry trends.  
+
+### Training Activities  
+- Hands-on training on social media management tools (scheduling, analytics, monitoring).  
+- Overview of brand tone, voice, and visual guidelines for social media.  
+- Workshop with the creative team on content ideation and brand aesthetics.  
+
+### Ice-breaking Activity  
+- **“Coffee Chat Roulette”**: Schedule 15-minute informal chats with 3 different team members throughout the day to build rapport.
+
+---
+
+## Day 3: Content Planning & Campaign Development
+
+### Key Tasks  
+- Draft a 1-month social media content calendar aligned with upcoming product launches, promotions, and events.  
+- Brainstorm campaign ideas focused on engagement and brand awareness.  
+- Identify potential influencers and brand ambassadors for partnerships.  
+
+### Training Activities  
+- Workshop on storytelling techniques and best practices for social media engagement.  
+- Review legal and compliance guidelines for influencer collaborations and user-generated content.  
+
+### Ice-breaking Activity  
+- Team lunch or virtual lunch break with social media and marketing teams to encourage informal bonding.
+
+---
+
+## Day 4: Execution & Collaboration
+
+### Key Tasks  
+- Schedule initial posts based on the drafted content calendar.  
+- Collaborate with customer service to understand common queries and feedback on social channels.  
+- Plan and assign tasks to any social media team members or freelancers under supervision.  
+
+### Training Activities  
+- Training on crisis management and handling negative comments or PR issues on social media.  
+- Introduction to paid social media advertising platforms and budgeting basics.  
+
+### Ice-breaking Activity  
+- **“Show & Tell”**: Each team member shares a favorite skincare product or brand story, fostering personal connections and product knowledge.
+
+---
+
+## Day 5: Reporting & Goal Setting
+
+### Key Tasks  
+- Prepare a sample weekly social media performance report template.  
+- Set short-term (30 days) and long-term (90 days) goals for social media growth and engagement.  
+- Plan regular check-ins with marketing leadership and other relevant departments.  
+
+### Training Activities  
+- Overview of internal communication protocols and tools (Slack, email, project management).  
+- Review company’s performance review process and feedback channels.  
+
+### Ice-breaking Activity  
+- Group brainstorming session on upcoming social media campaign themes with cross-departmental participation.
+
+---
+
+### Summary of Core Responsibilities & Duties  
+- **Strategy Development:** Craft and implement social media strategies to boost brand awareness and sales.  
+- **Content Management:** Oversee content creation, curation, publishing, and scheduling.  
+- **Team Leadership:** Lead and mentor social media specialists and freelancers.  
+- **Analytics & Reporting:** Track KPIs, generate insights, and optimize campaigns.  
+- **Collaboration:** Work closely with marketing, creative, PR, customer service, and influencer partners.  
+- **Reputation Management:** Monitor brand sentiment and manage social media crises effectively.  
 
 ---
 
