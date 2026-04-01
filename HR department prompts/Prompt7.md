@@ -1,7 +1,7 @@
 # PROMPT 7: Candidate Comparison
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are hiring a Social Media Head. Please compare the shortlisted candidates based on their skills, knowledge, and experience relevant to the role, and provide a clear and professional overview of each candidate’s strengths and overall suitability. Present the comparison in a structured format including Candidate Name, Key Skills, Relevant Knowledge, Experience Summary, and an Overall Suitability Rating. Ensure the evaluation is concise, relevant to the role, and suitable for supporting hiring decisions. Candidate details will be provided next.
+We are in the HR department of an online skincare brand and are hiring a Social Media Head. Please compare the shortlisted candidates based on their skills, knowledge, and experience relevant to the role, and provide a clear and professional evaluation of each candidate’s strengths and overall suitability. Present the comparison in a structured table format with the following columns: Candidate Name, Key Skills, Relevant Knowledge, Experience Summary, and Overall Suitability Rating. For the Overall Suitability Rating, use a scale of 1 to 5, where the score above 3 indicates strong alignment with all key role requirements, Only 3 indicates partial alignment with some gaps, and below 3 indicates limited alignment with the role expectations. Base this rating strictly on the information provided. When evaluating candidates, prioritise experience, skills , and knowledge to ensure consistency and reduce subjectivity. Ensure the comparison is specific, evidence-based, and directly aligned with the responsibilities of a Social Media Head in an online brand environment. Maintain a professional tone, and ensure the output is concise, well-organised, and suitable for decision-making purposes.
    
 <DATA> CANDIDATE 1: ROHAN MEHTA
 
@@ -130,32 +130,13 @@ Automation potential is medium, assisting decision-making but requiring human va
 
 **Output**
 
-Below is a structured comparison of the two shortlisted candidates for the Social Media Head position at your online skincare brand:
+| Candidate Name | Key Skills | Relevant Knowledge | Experience Summary | Overall Suitability Rating |
+|----------------|------------|--------------------|--------------------|----------------------------|
+| Rohan Mehta | Social Media Strategy & Growth, Paid Advertising (Meta, TikTok, Google Ads), Influencer & Affiliate Marketing, Data Analytics & ROI Optimization, Team Leadership & Management, Budget Planning | Deep knowledge of digital marketing in beauty/skincare, brand scaling, paid campaign management, influencer partnerships, and team leadership | 6 years in social media roles focused on skincare brands; led teams of 5; managed large ad budgets ($200K+) with high ROI; significant brand revenue growth (35%) and customer acquisition cost reduction (25%) | 4.8 / 5 – Excellent Fit: Strong leadership, strategic expertise, and extensive experience aligning well with Social Media Head responsibilities in an online skincare brand |
+| Aisha Sharma | Content Strategy & Planning, Social Media Management, Influencer Marketing, Performance Analytics, Content Creation & Copywriting | Practical knowledge of social media trends, influencer campaigns, and engagement optimization within skincare brands | 3 years with hands-on social media execution; increased engagement by 40%, managed sizable follower accounts (150K+), and led influencer campaigns boosting conversions by 25% | 4.0 / 5 – Strong Fit: Solid execution and campaign management skills with relevant industry experience, but limited leadership and strategic exposure for a head role |
 
-| **Criteria**             | **Rohan Mehta**                                              | **Aisha Sharma**                                             |
-|--------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| **Designation**          | Social Media Manager                                         | Social Media Executive                                       |
-| **Experience**           | 6 years                                                    | 3 years                                                    |
-| **Location**             | Melbourne, Australia                                        | Melbourne, Australia                                        |
-| **Key Skills**           | - Social Media Strategy & Growth<br>- Paid Advertising (Meta, TikTok, Google Ads)<br>- Influencer & Affiliate Marketing<br>- Data Analytics & ROI Optimization<br>- Team Leadership & Management<br>- Budget Planning | - Content Strategy & Planning<br>- Social Media Management<br>- Influencer Marketing<br>- Performance Analytics<br>- Content Creation & Copywriting |
-| **Relevant Knowledge**   | Deep expertise in digital marketing and brand scaling specifically in the beauty/skincare sector; strong paid media and influencer marketing knowledge; proficient in ROI-driven campaign management | Good understanding of social media trends and execution within skincare brands; strong content and influencer campaign knowledge; competent in campaign analytics and optimization |
-| **Experience Summary**   | - Led a team of 5 at PureGlow Skincare, increasing brand revenue by 35%<br>- Managed $200K+ ad budget with 4.5x ROI<br>- Built large-scale influencer partnerships<br>- Reduced customer acquisition cost by 25% at SkinFirst Pvt. Ltd.<br>- Boosted organic traffic by 50% | - Increased engagement by 40% at GlowSkin Australia<br>- Managed accounts with 150K+ followers<br>- Led influencer campaigns boosting conversions by 25%<br>- Supported digital campaigns and improved email marketing metrics |
-| **Strengths**            | - Strong leadership and strategic thinking<br>- Extensive experience in scaling brands<br>- Expertise in paid advertising and budget management<br>- Data-driven decision making | - Strong execution and campaign management skills<br>- Relevant skincare industry experience<br>- Good analytical and social media trend awareness<br>- Effective content creation and influencer collaboration |
-| **Concerns**             | - Higher salary expectations<br>- Possibly overqualified for execution-heavy tasks | - Limited leadership experience<br>- Moderate exposure to strategic planning |
-| **Overall Suitability Rating** | 4.8 / 5                                                 | 4.0 / 5                                                     |
-| **Fit for Role**         | Excellent Fit                                              | Strong Fit                                                  |
-| **Status**               | Top Shortlisted Candidate                                  | Shortlisted Candidate                                      |
-
-### Summary Overview:
-
-**Rohan Mehta** is a highly experienced and strategic social media professional with proven leadership capabilities and a strong track record of driving revenue growth and ROI through paid advertising and influencer partnerships within the skincare industry. His skills align closely with the requirements of a Social Media Head role, especially if the position requires team management, budget oversight, and high-level strategic planning. The only potential downside is his higher salary expectation and possible overqualification for hands-on execution tasks.
-
-**Aisha Sharma** demonstrates solid execution skills with a clear focus on campaign management, content strategy, and influencer marketing, showing promising results in engagement and conversions. While her leadership and strategic experience are limited compared to Rohan, she has relevant industry experience and strong operational capabilities, making her a suitable candidate for a more execution-focused or junior leadership role.
-
----
-
-**Recommendation:**  
-For a leadership role demanding strategic oversight, team management, and significant budget handling, **Rohan Mehta** is the top candidate and an excellent fit. If the role requires a strong executor with growth potential into leadership, **Aisha Sharma** represents a strong candidate with room for development.
+**Summary:**  
+Rohan Mehta emerges as the top candidate due to his comprehensive leadership experience, strategic skills, and proven track record in scaling skincare brands through paid and organic channels. His expertise in managing large budgets and teams aligns strongly with the demands of a Social Media Head. Aisha Sharma is a promising candidate with strong execution capabilities and relevant industry knowledge; however, her limited leadership experience and strategic exposure indicate she may be better suited for a senior managerial role rather than heading the department at this stage.
 
 ---
 
