@@ -1,7 +1,7 @@
 # PROMPT 9: Welcome Email
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are welcoming a newly hired Social Media Head. Draft a welcome email for the candidate including greetings, joining date, working hours etc.
+We are in the HR department of an online skincare brand and are welcoming a newly hired Social Media Head. Draft a welcome email for the candidate including a warm greeting, candidate's joining date, first day instructions, office ground rules and contact information for HR. The tone should be professional yet friendly, and the email should be concise (around 150-200 words). Please avoid adding any information not provided.
 
 ---
 
@@ -19,22 +19,23 @@ Automation potential is high.
 
 **Output**
 
-Subject: Welcome to [Company Name] – Your Journey Begins!
+Subject: Welcome to [Company Name] – Your First Day Details
 
 Dear Rohan Mehta,
 
-We are delighted to welcome you to the [Company Name] family as our new Social Media Head!
+We are delighted to welcome you to the team as our new Social Media Head! Your official joining date is 1 May 2026, and we look forward to having you on board.
 
-Your official joining date is 1 May 2026. Our working hours are from 9:00 AM to 5:00 PM, Monday through Friday. On your first day, please arrive at 8:30 AM and check in at the HR desk, where we will guide you through the onboarding process.
+On your first day, please arrive by 8:30 AM at our office reception, where you will be greeted by a member of the HR team. Kindly bring a valid ID for security check-in. Dress code is business casual to maintain a professional yet comfortable environment.
 
-We are excited to have your expertise on board as we continue to grow our online presence and connect with our community. Should you have any questions before your start date, feel free to reach out to us at [HR contact email/phone].
+As part of our office ground rules, we encourage punctuality, respectful communication, and maintaining a clean workspace. Please familiarize yourself with our company policies, which will be shared during orientation.
 
-Once again, welcome to the team! We look forward to achieving great things together.
+If you have any questions before your start date, feel free to reach out to the HR department at hr@[companydomain].com or call us at [HR Phone Number].
+
+We are excited to have you join us and contribute to our brand’s growth!
 
 Best regards,  
-[Your Full Name]  
-[Your Position]  
-[Company Name]  
-[Contact Information]
+[Your Name]  
+HR Department  
+[Company Name]
 
 ---
