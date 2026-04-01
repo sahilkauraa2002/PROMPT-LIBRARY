@@ -2,7 +2,7 @@
 
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are hiring a Social Media Head. Draft a structured job description that includes a short role summary of 5-6 lines, key responsibilities focused on social media management, content scheduling, and audience engagement, posting timelines and required skills relevant to digital marketing and social media. Keep the tone professional and concise.
+We are in the HR department of an online skincare brand and are hiring a Social Media Head. Generate a structured job description draft that clearly defines the role and is suitable for publication. The description should include a concise role summary of 5 to 6 lines, key responsibilities covering social media strategy, content planning, posting timelines and scheduling, audience engagement, campaign execution, and performance tracking across platforms such as Instagram, facebook , and the brand’s website, and required skills including digital marketing expertise, content creation, analytics, platform management, and communication. Ensure the output is professional, specific to an online skincare brand, and aligned with real-world expectations for a Social Media Head. Limit the response to 180–220 words, avoid generic statements, and ensure all responsibilities are actionable and relevant to online brand growth and engagement.
 
 ---
 
@@ -20,33 +20,25 @@ The automation potential for this prompt is high, as AI can independently genera
 
 **Output**
 
-**Job Title:** Social Media Head  
+**Job Title:** Social Media Head – Online Skincare Brand
 
 **Role Summary:**  
-We are seeking an experienced Social Media Head to lead our online skincare brand’s social media strategy and execution. The ideal candidate will be responsible for managing all social media platforms, driving audience growth, engagement, and brand awareness. This role requires a strategic thinker with strong content planning capabilities and a deep understanding of digital marketing trends to effectively amplify our brand voice in a competitive marketplace.  
+We are seeking a dynamic and results-driven Social Media Head to lead our online skincare brand’s digital presence. This role demands strategic oversight of social media initiatives, ensuring consistent brand messaging and audience growth across Instagram, Facebook, and our website. You will drive content planning, execute targeted campaigns, and monitor performance metrics to optimize engagement and conversion. The ideal candidate combines deep digital marketing expertise with a passion for skincare, enabling meaningful connections with our community and elevating brand visibility in a competitive market.
 
 **Key Responsibilities:**  
-- Develop and implement comprehensive social media strategies aligned with business goals.  
-- Manage and oversee daily social media content creation, scheduling, and publishing across platforms including Instagram, Facebook, Twitter, TikTok, and LinkedIn.  
-- Plan and maintain a consistent posting calendar to ensure timely and relevant content distribution.  
-- Monitor social media channels for audience engagement, respond to comments and messages promptly, and foster active community interaction.  
-- Analyze performance metrics and generate regular reports to optimize content and campaign effectiveness.  
-- Collaborate with marketing, design, and product teams to align social media campaigns with overall brand initiatives.  
-- Stay updated on industry trends, platform updates, and emerging social media tools to maintain competitive advantage.  
-
-**Posting Timelines:**  
-- Content to be scheduled at optimal times based on platform-specific audience insights, typically involving multiple daily posts on high-traffic platforms.  
-- Weekly content calendars to be prepared and approved in advance.  
-- Real-time engagement and monitoring during peak hours to maximize audience interaction.  
+- Develop and implement a comprehensive social media strategy aligned with brand goals and product launches.  
+- Plan, create, and curate skincare-focused content calendars, ensuring timely posting and platform-specific optimization.  
+- Manage daily scheduling and publishing of posts across Instagram, Facebook, and the brand website, maintaining consistency and relevance.  
+- Engage actively with the online community, responding to comments and messages to foster brand loyalty and trust.  
+- Execute data-driven social media campaigns, collaborating with marketing and product teams to boost reach and sales.  
+- Track, analyze, and report on key performance indicators (KPIs) such as engagement rates, follower growth, and conversion metrics, adjusting strategies accordingly.  
 
 **Required Skills:**  
-- Proven experience in social media management and digital marketing, preferably within the beauty or lifestyle sector.  
-- Strong proficiency with social media management tools (e.g., Hootsuite, Buffer, Sprout Social).  
-- Excellent content creation and copywriting skills tailored for diverse social platforms.  
-- Ability to interpret analytics and translate data into actionable insights.  
-- Strong organizational skills with the ability to manage multiple projects and deadlines.  
-- Creative mindset with a keen eye for visual aesthetics and brand consistency.  
-- Excellent communication and team collaboration skills.  
+- Proven expertise in digital marketing and social media management within the beauty or skincare industry.  
+- Strong content creation skills, including visual storytelling and copywriting tailored to skincare consumers.  
+- Proficiency with social media management and analytics tools (e.g., Hootsuite, Google Analytics, Facebook Insights).  
+- Excellent communication skills with an ability to translate brand voice into engaging digital narratives.  
+- Strategic mindset with a focus on growth, engagement, and customer experience.
 
 ---
 
