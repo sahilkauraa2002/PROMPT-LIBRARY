@@ -1,7 +1,7 @@
 # PROMPT 2: Resume Screening
 **Prompt text**
 
-We are in the HR department of an online skincare brand and are hiring a Social Media Head. Review the following resume and provide a clear and structured summary of the candidate, including strengths and weaknesses in relation to social media management, content creation, audience engagement, and digital marketing experience. Consider that there must be some certifications or qualifications in Social media management or digital marketing. Ensure the response is professional and relevant to the role.
+We are in the HR department of an online skincare brand and are hiring a Social Media Head. Review the provided resume and generate a clear, professional, and structured evaluation of the candidate’s suitability for the role. The response should include a concise summary of the candidate’s profile including strengths and weaknesses specifically related to social media management, content creation, audience engagement, and digital marketing experience, as well as an assessment of how relevant the candidate’s experience is to the role. Additionally, identify and verify any certifications or qualifications mentioned in the resume that are relevant to social media or digital marketing, and clearly state if they support the candidate’s suitability. Ensure the evaluation is strictly based on the information provided in the resume, and  remains specific and evidence-based. Maintain a professional tone and limit the response to approximately 180–220 words, presenting the content in a clear and well-organised manner.
 [CV- Name: Aisha Sharma
 Phone: +61 412 345 678
 Email: aisha.sharma@email.com
@@ -61,7 +61,6 @@ Canva, Adobe Photoshop
 Hootsuite, Buffer
 Google Analytics
 Microsoft Excel & PowerPoint]
----
 
 **Intended Workflow**
 
@@ -77,56 +76,15 @@ The automation potential is medium to high. AI can efficiently analyse resumes a
 
 **Output**
 
-**Candidate Summary: Aisha Sharma**
+Candidate Evaluation: Aisha Sharma – Social Media Head Role
 
-**Professional Overview:**  
-Aisha Sharma is a results-driven marketing professional with over 3 years of experience specializing in social media management, content strategy, and digital marketing campaigns. She has a demonstrated ability to increase brand engagement and drive online growth, particularly within the beauty and skincare industry. Her current role as a Social Media Executive at GlowSkin Australia highlights her capability to manage large social media followings, lead influencer marketing efforts, and leverage data analytics to optimize campaign performance.
+Aisha Sharma presents as a capable marketing professional with over three years of focused experience in social media management, content creation, and digital marketing, particularly within the beauty and skincare sector. Her current role as Social Media Executive at GlowSkin Australia demonstrates strong proficiency in managing sizable social media accounts (150K+ followers), driving significant engagement growth (40% increase), and executing influencer campaigns that boosted sales conversions by 25%. These achievements indicate a solid command of audience engagement and campaign management, critical for the Social Media Head position.
 
----
+Her experience with analytics tools (Google Analytics, Meta Insights) and paid advertising platforms (Meta Ads, Google Ads) supports a data-driven approach to strategy optimization. Additionally, her skills in content creation, copywriting, and brand positioning align well with the responsibilities of leading content strategy and maintaining brand consistency.
 
-**Strengths:**
+Aisha’s certifications—Google Digital Marketing Certification, Meta Social Media Marketing Professional Certificate, and HubSpot Content Marketing Certification—are highly relevant and validate her expertise in digital marketing and social media, enhancing her suitability for the role.
 
-1. **Social Media Management:**  
-   - Experience managing social media accounts with a substantial follower base (150K+), indicating proficiency in handling large-scale brand communities.  
-   - Proven track record of increasing engagement rates significantly (40% increase) through targeted content strategies.  
-   - Hands-on experience with major platforms relevant to skincare brands such as Instagram, TikTok, and LinkedIn.
-
-2. **Content Creation & Campaign Execution:**  
-   - Skilled in content creation and copywriting, supported by certifications in content marketing.  
-   - Successfully designed and executed influencer campaigns that resulted in measurable sales growth (25% increase in sales conversions).  
-   - Experience coordinating with influencers and managing collaborations (20+ influencers in a single campaign).
-
-3. **Audience Engagement & Analytics:**  
-   - Proficient in using analytics tools like Google Analytics and Meta Insights to monitor campaign performance and make data-driven decisions.  
-   - Experience improving engagement and open rates, demonstrating an understanding of audience behavior and content optimization.
-
-4. **Digital Marketing Expertise:**  
-   - Holds relevant certifications including Google Digital Marketing Certification and Meta Social Media Marketing Professional Certificate, validating her knowledge in digital marketing and social media management.  
-   - Familiar with SEO, paid advertising (Meta Ads, Google Ads), and email marketing, providing a comprehensive digital marketing skill set.
-
-5. **Technical Skills & Tools:**  
-   - Proficient in industry-standard tools such as Canva, Adobe Photoshop for content creation, and Hootsuite, Buffer for social media scheduling and management.
-
----
-
-**Weaknesses / Areas for Development:**
-
-1. **Leadership Experience:**  
-   - While Aisha has team collaboration skills and some leadership involvement, there is limited evidence of leading a team or managing a social media department independently, which is important for a Social Media Head role.
-
-2. **Strategic Depth:**  
-   - Although she has executed campaigns effectively, the CV lacks detailed examples of long-term social media strategy development or multi-channel integrated marketing strategies at a senior level.
-
-3. **Broader Industry Exposure:**  
-   - Her experience is primarily focused on skincare/beauty brands; while this is relevant, additional exposure to other industries or larger brand portfolios could be beneficial.
-
-4. **Advanced Analytics & Reporting:**  
-   - The resume mentions analytics tools but does not elaborate on advanced data analysis or ROI reporting capabilities, which are crucial for senior social media roles.
-
----
-
-**Conclusion:**  
-Aisha Sharma is a well-qualified candidate for the Social Media Head role, with strong hands-on experience in social media management, content creation, influencer marketing, and digital advertising within the skincare and beauty sector. Her certifications in digital marketing and social media further affirm her technical expertise.
+While her leadership experience is mentioned, it appears limited to team collaboration rather than direct management, which may require further exploration. Overall, Aisha’s profile is well-aligned with the role’s requirements, particularly in skincare brand context, making her a strong candidate for the Social Media Head position.
 
 To fully meet the requirements of a Social Media Head, Aisha may need to demonstrate stronger leadership experience and strategic planning capabilities. However, her relevant industry knowledge, proven results, and digital marketing skills make her a promising candidate who could grow into the leadership responsibilities with appropriate support.
 
